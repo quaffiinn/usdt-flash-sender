@@ -1,4 +1,4 @@
-# USDT Flash Sender ⭐
+# USDT Flash Sender 
 
 **USDT Flash Sender** is a lightweight tool designed for sending fake USDT (Tether) transactions on the TRC20 network. It allows you to simulate instant transfers with minimal delay, ideal for testing or demonstrating blockchain-related functionality without real funds.
 
@@ -16,7 +16,7 @@
 
 ---
 
-⭐ **Support and Contributions:**  
+**Support and Contributions:**  
 Feel free to create a pull request or open an issue if you have suggestions or would like to contribute. We welcome new ideas! 🚀
 
 discord.gg/cryptotoolsdev
