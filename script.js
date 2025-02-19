@@ -1,0 +1,1 @@
+console.log('Fake USDT Flash Sender Loaded');
